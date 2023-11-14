@@ -1,1 +1,2 @@
 # samemu
+Nowy przypadek testowy
